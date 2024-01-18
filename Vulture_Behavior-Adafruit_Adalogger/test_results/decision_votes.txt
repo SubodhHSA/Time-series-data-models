@@ -1,0 +1,62 @@
+decisions[0] > 0 ? 0 : 1
+decisions[1] > 0 ? 0 : 2
+decisions[2] > 0 ? 1 : 2
+0:
+Decision 0: 0.64	Vote0: 1
+Decision 1: -1.05	Vote1: 0
+Decision 2: -1.87	Vote2: 2
+feeding
+
+1:
+Decision 0: 1.23	Vote0: 2
+Decision 1: 1.62	Vote1: 1
+Decision 2: 0.48	Vote2: 0
+flying
+
+2:
+Decision 0: -2.16	Vote0: 0
+Decision 1: -0.43	Vote1: 2
+Decision 2: 1.28	Vote2: 1
+low_activity
+
+3:
+Decision 0: 3.15	Vote0: 1
+Decision 1: -2.39	Vote1: 0
+Decision 2: -5.68	Vote2: 2
+feeding
+
+4:
+Decision 0: -1.03	Vote0: 0
+Decision 1: -1.40	Vote1: 1
+Decision 2: -0.86	Vote2: 2
+feeding
+
+5:
+Decision 0: 0.69	Vote0: 1
+Decision 1: -0.51	Vote1: 0
+Decision 2: -1.27	Vote2: 2
+feeding
+
+6:
+Decision 0: -0.46	Vote0: 1
+Decision 1: 0.71	Vote1: 2
+Decision 2: 1.00	Vote2: 0
+low_activity
+
+7:
+Decision 0: -1.93	Vote0: 0
+Decision 1: -0.25	Vote1: 2
+Decision 2: 1.27	Vote2: 1
+low_activity
+
+8:
+Decision 0: 1.01	Vote0: 2
+Decision 1: 1.96	Vote1: 1
+Decision 2: 1.00	Vote2: 0
+flying
+
+9:
+Decision 0: -2.13	Vote0: 0
+Decision 1: -0.39	Vote1: 2
+Decision 2: 1.31	Vote2: 1
+low_activity

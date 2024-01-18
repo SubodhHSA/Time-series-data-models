@@ -1,0 +1,400 @@
+Starting!!
+0:
+sdocpz: 0.18, coryz: 0.07, sdx: 0.14, rangex: 0.64
+Detected gesture: 2
+
+1:
+sdocpz: 0.04, coryz: 0.85, sdx: 0.03, rangex: 0.15
+Detected gesture: 0
+
+2:
+sdocpz: 0.00, coryz: -0.61, sdx: 0.01, rangex: 0.03
+Detected gesture: 1
+
+3:
+sdocpz: 0.65, coryz: 0.24, sdx: 0.26, rangex: 1.71
+Detected gesture: 2
+
+4:
+sdocpz: 0.06, coryz: -0.53, sdx: 0.09, rangex: 0.46
+Detected gesture: 2
+
+5:
+sdocpz: 0.09, coryz: 0.23, sdx: 0.11, rangex: 0.54
+Detected gesture: 2
+
+6:
+sdocpz: 0.01, coryz: 0.25, sdx: 0.01, rangex: 0.07
+Detected gesture: 1
+
+7:
+sdocpz: 0.00, coryz: -0.44, sdx: 0.01, rangex: 0.03
+Detected gesture: 1
+
+8:
+sdocpz: 0.01, coryz: 0.88, sdx: 0.01, rangex: 0.03
+Detected gesture: 0
+
+9:
+sdocpz: 0.00, coryz: -0.58, sdx: 0.01, rangex: 0.02
+Detected gesture: 1
+
+10:
+sdocpz: 0.33, coryz: -0.09, sdx: 0.12, rangex: 0.56
+Detected gesture: 2
+
+11:
+sdocpz: 0.06, coryz: 0.96, sdx: 0.05, rangex: 0.22
+Detected gesture: 0
+
+12:
+sdocpz: 0.06, coryz: 0.55, sdx: 0.05, rangex: 0.22
+Detected gesture: 0
+
+13:
+sdocpz: 0.05, coryz: 0.23, sdx: 0.14, rangex: 0.49
+Detected gesture: 2
+
+14:
+sdocpz: 0.04, coryz: 0.88, sdx: 0.03, rangex: 0.14
+Detected gesture: 0
+
+15:
+sdocpz: 0.04, coryz: 0.90, sdx: 0.04, rangex: 0.18
+Detected gesture: 0
+
+16:
+sdocpz: 0.01, coryz: -0.54, sdx: 0.01, rangex: 0.04
+Detected gesture: 1
+
+17:
+sdocpz: 0.22, coryz: -0.60, sdx: 0.19, rangex: 0.89
+Detected gesture: 2
+
+18:
+sdocpz: 0.08, coryz: 0.95, sdx: 0.05, rangex: 0.22
+Detected gesture: 0
+
+19:
+sdocpz: 0.01, coryz: -0.75, sdx: 0.02, rangex: 0.07
+Detected gesture: 1
+
+20:
+sdocpz: 0.05, coryz: 0.93, sdx: 0.04, rangex: 0.24
+Detected gesture: 0
+
+21:
+sdocpz: 0.01, coryz: -0.65, sdx: 0.03, rangex: 0.11
+Detected gesture: 1
+
+22:
+sdocpz: 0.00, coryz: -0.76, sdx: 0.01, rangex: 0.02
+Detected gesture: 1
+
+23:
+sdocpz: 0.03, coryz: -0.66, sdx: 0.03, rangex: 0.14
+Detected gesture: 1
+
+24:
+sdocpz: 0.00, coryz: -0.53, sdx: 0.00, rangex: 0.01
+Detected gesture: 1
+
+25:
+sdocpz: 0.20, coryz: 0.42, sdx: 0.10, rangex: 0.49
+Detected gesture: 2
+
+26:
+sdocpz: 0.31, coryz: 0.18, sdx: 0.25, rangex: 1.30
+Detected gesture: 2
+
+27:
+sdocpz: 0.18, coryz: -0.44, sdx: 0.19, rangex: 1.11
+Detected gesture: 2
+
+28:
+sdocpz: 0.00, coryz: -0.37, sdx: 0.00, rangex: 0.01
+Detected gesture: 1
+
+29:
+sdocpz: 0.21, coryz: -0.39, sdx: 0.25, rangex: 1.30
+Detected gesture: 2
+
+30:
+sdocpz: 0.02, coryz: -0.90, sdx: 0.15, rangex: 0.48
+Detected gesture: 2
+
+31:
+sdocpz: 0.00, coryz: -0.39, sdx: 0.01, rangex: 0.04
+Detected gesture: 1
+
+32:
+sdocpz: 0.02, coryz: 0.17, sdx: 0.12, rangex: 0.61
+Detected gesture: 2
+
+33:
+sdocpz: 0.03, coryz: 0.80, sdx: 0.03, rangex: 0.12
+Detected gesture: 0
+
+34:
+sdocpz: 1.30, coryz: 0.24, sdx: 0.44, rangex: 1.92
+Detected gesture: 2
+
+35:
+sdocpz: 0.06, coryz: 0.90, sdx: 0.04, rangex: 0.19
+Detected gesture: 0
+
+36:
+sdocpz: 0.05, coryz: 0.95, sdx: 0.05, rangex: 0.21
+Detected gesture: 0
+
+37:
+sdocpz: 0.00, coryz: -0.45, sdx: 0.00, rangex: 0.02
+Detected gesture: 1
+
+38:
+sdocpz: 0.19, coryz: -0.29, sdx: 0.16, rangex: 0.60
+Detected gesture: 2
+
+39:
+sdocpz: 0.02, coryz: 0.81, sdx: 0.03, rangex: 0.11
+Detected gesture: 0
+
+40:
+sdocpz: 0.00, coryz: -0.87, sdx: 0.00, rangex: 0.01
+Detected gesture: 1
+
+41:
+sdocpz: 0.07, coryz: 0.89, sdx: 0.05, rangex: 0.26
+Detected gesture: 0
+
+42:
+sdocpz: 0.04, coryz: 0.96, sdx: 0.14, rangex: 0.97
+Detected gesture: 0
+
+43:
+sdocpz: 0.83, coryz: 0.60, sdx: 0.63, rangex: 2.92
+Detected gesture: 2
+
+44:
+sdocpz: 0.00, coryz: -0.66, sdx: 0.01, rangex: 0.05
+Detected gesture: 1
+
+45:
+sdocpz: 0.09, coryz: -0.51, sdx: 0.24, rangex: 0.91
+Detected gesture: 2
+
+46:
+sdocpz: 0.08, coryz: 0.91, sdx: 0.05, rangex: 0.19
+Detected gesture: 0
+
+47:
+sdocpz: 0.12, coryz: -0.52, sdx: 0.14, rangex: 0.57
+Detected gesture: 2
+
+48:
+sdocpz: 0.00, coryz: -0.61, sdx: 0.00, rangex: 0.01
+Detected gesture: 1
+
+49:
+sdocpz: 0.00, coryz: -0.21, sdx: 0.00, rangex: 0.01
+Detected gesture: 1
+
+50:
+sdocpz: 0.23, coryz: 0.19, sdx: 0.09, rangex: 0.51
+Detected gesture: 2
+
+51:
+sdocpz: 0.00, coryz: -0.66, sdx: 0.00, rangex: 0.02
+Detected gesture: 1
+
+52:
+sdocpz: 0.06, coryz: 0.85, sdx: 0.05, rangex: 0.22
+Detected gesture: 0
+
+53:
+sdocpz: 0.08, coryz: 0.44, sdx: 0.06, rangex: 0.28
+Detected gesture: 0
+
+54:
+sdocpz: 0.00, coryz: -0.62, sdx: 0.01, rangex: 0.03
+Detected gesture: 1
+
+55:
+sdocpz: 0.01, coryz: 0.70, sdx: 0.01, rangex: 0.06
+Detected gesture: 0
+
+56:
+sdocpz: 0.20, coryz: -0.07, sdx: 0.11, rangex: 0.57
+Detected gesture: 2
+
+57:
+sdocpz: 0.06, coryz: 0.85, sdx: 0.04, rangex: 0.18
+Detected gesture: 0
+
+58:
+sdocpz: 0.02, coryz: 0.94, sdx: 0.02, rangex: 0.09
+Detected gesture: 0
+
+59:
+sdocpz: 0.02, coryz: -0.33, sdx: 0.02, rangex: 0.09
+Detected gesture: 1
+
+60:
+sdocpz: 0.00, coryz: -0.45, sdx: 0.01, rangex: 0.04
+Detected gesture: 1
+
+61:
+sdocpz: 0.07, coryz: 0.92, sdx: 0.04, rangex: 0.21
+Detected gesture: 0
+
+62:
+sdocpz: 0.00, coryz: -0.62, sdx: 0.00, rangex: 0.02
+Detected gesture: 1
+
+63:
+sdocpz: 0.25, coryz: 0.13, sdx: 0.23, rangex: 1.20
+Detected gesture: 2
+
+64:
+sdocpz: 0.00, coryz: -0.52, sdx: 0.00, rangex: 0.01
+Detected gesture: 1
+
+65:
+sdocpz: 0.16, coryz: 0.55, sdx: 0.25, rangex: 1.40
+Detected gesture: 2
+
+66:
+sdocpz: 0.37, coryz: 0.46, sdx: 0.26, rangex: 1.11
+Detected gesture: 2
+
+67:
+sdocpz: 0.12, coryz: -0.37, sdx: 0.11, rangex: 0.45
+Detected gesture: 2
+
+68:
+sdocpz: 0.25, coryz: 0.25, sdx: 0.15, rangex: 0.70
+Detected gesture: 2
+
+69:
+sdocpz: 0.04, coryz: 0.86, sdx: 0.04, rangex: 0.19
+Detected gesture: 0
+
+70:
+sdocpz: 0.00, coryz: -0.69, sdx: 0.00, rangex: 0.02
+Detected gesture: 1
+
+71:
+sdocpz: 0.13, coryz: -0.32, sdx: 0.09, rangex: 0.45
+Detected gesture: 2
+
+72:
+sdocpz: 0.01, coryz: -0.74, sdx: 0.03, rangex: 0.13
+Detected gesture: 1
+
+73:
+sdocpz: 0.00, coryz: -0.50, sdx: 0.00, rangex: 0.01
+Detected gesture: 1
+
+74:
+sdocpz: 0.00, coryz: -0.43, sdx: 0.00, rangex: 0.01
+Detected gesture: 1
+
+75:
+sdocpz: 0.07, coryz: 0.97, sdx: 0.04, rangex: 0.16
+Detected gesture: 0
+
+76:
+sdocpz: 0.10, coryz: 0.28, sdx: 0.13, rangex: 0.52
+Detected gesture: 2
+
+77:
+sdocpz: 0.12, coryz: -0.47, sdx: 0.18, rangex: 0.61
+Detected gesture: 2
+
+78:
+sdocpz: 0.04, coryz: 0.93, sdx: 0.04, rangex: 0.18
+Detected gesture: 0
+
+79:
+sdocpz: 0.05, coryz: 0.89, sdx: 0.05, rangex: 0.21
+Detected gesture: 0
+
+80:
+sdocpz: 0.06, coryz: 0.96, sdx: 0.05, rangex: 0.33
+Detected gesture: 0
+
+81:
+sdocpz: 0.32, coryz: 0.12, sdx: 0.21, rangex: 1.11
+Detected gesture: 2
+
+82:
+sdocpz: 0.00, coryz: -0.61, sdx: 0.01, rangex: 0.04
+Detected gesture: 1
+
+83:
+sdocpz: 0.02, coryz: 0.90, sdx: 0.04, rangex: 0.18
+Detected gesture: 0
+
+84:
+sdocpz: 0.00, coryz: -0.86, sdx: 0.01, rangex: 0.03
+Detected gesture: 1
+
+85:
+sdocpz: 0.07, coryz: -0.47, sdx: 0.17, rangex: 0.58
+Detected gesture: 2
+
+86:
+sdocpz: 0.00, coryz: -0.54, sdx: 0.01, rangex: 0.03
+Detected gesture: 1
+
+87:
+sdocpz: 0.06, coryz: 0.68, sdx: 0.08, rangex: 0.53
+Detected gesture: 0
+
+88:
+sdocpz: 0.24, coryz: -0.54, sdx: 0.18, rangex: 0.91
+Detected gesture: 2
+
+89:
+sdocpz: 0.04, coryz: 0.96, sdx: 0.04, rangex: 0.14
+Detected gesture: 0
+
+90:
+sdocpz: 0.08, coryz: -0.21, sdx: 0.11, rangex: 0.67
+Detected gesture: 2
+
+91:
+sdocpz: 0.01, coryz: -0.79, sdx: 0.02, rangex: 0.15
+Detected gesture: 1
+
+92:
+sdocpz: 0.15, coryz: -0.57, sdx: 0.09, rangex: 0.44
+Detected gesture: 2
+
+93:
+sdocpz: 0.00, coryz: -0.87, sdx: 0.01, rangex: 0.04
+Detected gesture: 1
+
+94:
+sdocpz: 0.17, coryz: -0.48, sdx: 0.23, rangex: 1.11
+Detected gesture: 2
+
+95:
+sdocpz: 0.20, coryz: -0.41, sdx: 0.20, rangex: 0.88
+Detected gesture: 2
+
+96:
+sdocpz: 0.01, coryz: -0.25, sdx: 0.01, rangex: 0.04
+Detected gesture: 1
+
+97:
+sdocpz: 0.00, coryz: -0.21, sdx: 0.00, rangex: 0.01
+Detected gesture: 1
+
+98:
+sdocpz: 0.16, coryz: -0.61, sdx: 0.36, rangex: 1.37
+Detected gesture: 2
+
+99:
+sdocpz: 0.00, coryz: 0.10, sdx: 0.00, rangex: 0.01
+Detected gesture: 1
